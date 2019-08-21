@@ -9,12 +9,12 @@ with open('README.md', 'r', 'utf-8') as f:
     readme = f.read()
 
 setup(
-    name='articleDateExtractor',
-    packages=['articleDateExtractor'],
+    name='articleDateExtractor1',
+    packages=['articleDateExtractor1'],
     version='0.20',
     author='Ran Geva',
     author_email='ran@webhose.io, yitao.sun@yahoo.com, wilson.s.shilo@gmail.com',
-    url='https://github.com/Webhose/article-date-extractor',
+    url='https://github.com/msharma-rms/article-date-extractor1.git',
     license='MIT',
     description='Automatically extracts and normalizes an online article or blog post publication date',
     long_description=readme,
